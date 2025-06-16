@@ -1,0 +1,7 @@
+In my NLP_Assignment.ipynb im using a kaggle built in dataset to apply nltk and spacy ftns.
+first dataframes are created for every csv file.
+Nltk is applied on that df to get tokenization, stemming and lemmatization.
+Spcay is applied to get tokenization and lemmatization.
+Both are visually compared but in end a sample text is also used for better comparison.
+for Task 3 sentiment analysis is done on bert-base-ner model
+for task 4 cbow and skip gram techniques are done on a raw corpus of text using genism.
